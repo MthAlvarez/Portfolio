@@ -1,0 +1,68 @@
+.back-contact{
+    background-color: #b800fa;
+}
+
+
+.back-contact p{
+    color: #fff;
+    font-size: 20px;
+}
+
+.text-contact{
+    font-size: 110px;
+    background: -webkit-linear-gradient(#ffffff, #ffffff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: 0.8s;
+}
+
+@media (max-width: 667px) {
+    .text-contact{
+        font-size: 80px;
+        background: -webkit-linear-gradient(#ffffff, #ffffff);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+
+    }
+}
+
+@media (max-width: 462px) {
+    .text-contact{
+        font-size: 60px;
+        background: -webkit-linear-gradient(#ffffff, #ffffff);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+
+    }
+}
+
+@media (max-width: 416px) {
+    .text-contact{
+        font-size: 50px;
+        background: -webkit-linear-gradient(#ffffff, #ffffff);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+
+    }
+}
+
+@media (max-width: 369px) {
+    .text-contact{
+        font-size: 40px;
+        background: -webkit-linear-gradient(#ffffff, #ffffff);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+
+    }
+}
+
+@media (max-width: 280px) {
+    .text-contact{
+        font-size: 35px;
+        background: -webkit-linear-gradient(#ffffff, #ffffff);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+
+    }
+
+}

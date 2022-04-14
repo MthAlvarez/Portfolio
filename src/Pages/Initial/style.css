@@ -1,0 +1,1122 @@
+.initial{
+    background-color: #000;
+}
+
+.initial-info{
+    background-color: rgb(0, 0, 0, 0.08);
+    height: 296px;
+    margin-top: 93px;
+    padding-top: 4px;
+}
+
+.initial-background{
+    background-image: url(../../assets/background1.jpg);
+    background-size: cover;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    opacity: 0.8;
+}
+
+.text-name, .textP{
+    color: #fff;
+    text-shadow: 1px 1px black;
+}
+
+.text-name{
+    font-size: 50px;
+}
+
+.btn-purple{
+    background-color: #000 !important;
+    border: 1px solid #b800fa !important;
+    height: 50px;
+    width: 120px;
+}
+
+.btn-purple:hover{
+    background-color: #b700fa2c  !important;
+    border: 1px solid #b800fa !important;
+}
+
+@media (min-width: 1700px) {
+    .initial-info{
+        background-color: rgb(0, 0, 0, 0.08);
+        height: 296px;
+        margin-top: 215px;
+        margin-bottom: 153px;
+        padding-top: 4px;
+    }
+}
+
+@media (width: 360px) and (height: 640px) {
+
+    .initial-info{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+
+    .text-name{
+        font-size: 40px;
+    }
+}
+
+@media (width: 600px) and (height: 1024px) {
+
+    .initial-info{
+        margin-top: 210px;
+        padding-top: 85px;
+        margin-bottom: 210px;
+    }
+
+    .text-name{
+        font-size: 40px;
+    }
+}
+
+@media (width: 360px) and (height: 740px) {
+
+    .initial-info{
+        margin-top: 75px;
+        padding-top: 40px;
+        margin-bottom: 75px;
+    }
+
+    .text-name{
+        font-size: 40px;
+    }
+}
+
+@media (width: 320px) and (height: 658px) {
+
+    .initial-info{
+        margin-top: 10px;
+        padding-top: 40px;
+        margin-bottom: 5px;
+    }
+
+    .text-name{
+        font-size: 35px;
+    }
+
+    .textP{
+        font-size: 15px;
+    }
+}
+
+@media (width: 712px) and (height: 1138px) {
+
+    .initial-info{
+        margin-top: 270px;
+        padding-top: 40px;
+        margin-bottom: 270px;
+    }
+
+    .text-name{
+        font-size: 57px;
+    }
+
+    .textP{
+        font-size: 22px;
+    }
+}
+
+@media (width: 800px) and (height: 1280px) {
+
+    .initial-info{
+        margin-top: 340px;
+        padding-top: 40px;
+        margin-bottom: 340px;
+    }
+
+    .text-name{
+        font-size: 57px;
+    }
+
+    .textP{
+        font-size: 22px;
+    }
+}
+
+@media (width: 384px) and (height: 640px) {
+
+    .initial-info{
+        margin-top: 20px;
+        padding-top: 40px;
+        margin-bottom: 20px;
+    }
+
+    .text-name{
+        font-size: 45px;
+    }
+
+    .textP{
+        font-size: 15px;
+    }
+}
+
+@media (width: 384px) and (height: 640px) {
+
+    .initial-info{
+        margin-top: 20px;
+        padding-top: 40px;
+        margin-bottom: 20px;
+    }
+
+    .text-name{
+        font-size: 45px;
+    }
+
+    .textP{
+        font-size: 15px;
+    }
+}
+
+@media (width: 412px) and (height:732px) {
+
+    .initial-info{
+        margin-top: 70px;
+        padding-top: 4px;
+        margin-bottom: 70px;
+    }
+
+    .container-btn{
+        top: 65%;
+        width: 40px;
+    }
+
+    .text-name{
+        font-size: 45px;
+    }
+
+    .textP{
+        font-size: 15px;
+    }
+
+    /* .btn-more {
+        width: 200px;
+        height: 80px;
+        font-size: 18px;
+        color: #fff;
+    }
+    
+    .border{
+        width: 200px;
+        height: 80px;
+    } */
+}
+
+@media (width: 600px) and (height: 960px) {
+
+    .initial-info{
+        margin-top: 185px;
+        padding-top: 40px;
+        margin-bottom: 185px;
+    }
+
+    .container-btn{
+        top: 65%;
+        width: 40px;
+    }
+
+    .text-name{
+        font-size: 45px;
+    }
+
+    .textP{
+        font-size: 18px;
+    }
+}
+
+@media (width: 320px) and (height: 533px) {
+
+    .initial-info{
+        margin-top: 25px;
+        padding-top: 40px;
+        margin-bottom: 25px;
+    }
+
+    .container-btn{
+        top: 80%;
+        width: 40px;
+    }
+
+    .text-name{
+        font-size: 35px;
+    }
+
+    .textP{
+        font-size: 15px;
+    }
+}
+
+@media (width: 480px) and (height: 854px) {
+
+    .initial-info{
+        margin-top: 125px;
+        padding-top: 40px;
+        margin-bottom: 125px;
+    }
+
+    .container-btn{
+        top: 55%;
+        width: 40px;
+    }
+
+    .text-name{
+        font-size: 35px;
+    }
+
+    .textP{
+        font-size: 15px;
+    }
+}
+
+@media (width: 393px) and (height: 786px) {
+
+    .initial-info{
+        margin-top: 92px;
+        padding-top: 40px;
+        margin-bottom: 92px;
+    }
+
+    .container-btn{
+        top: 65%;
+        width: 40px;
+    }
+
+    .text-name{
+        font-size: 35px;
+    }
+
+    .textP{
+        font-size: 15px;
+    }
+}
+
+@media (width: 353px) and (height: 745px) {
+
+    .initial-info{
+        margin-top: 72px;
+        padding-top: 40px;
+        margin-bottom: 72px;
+    }
+
+    .container-btn{
+        top: 65%;
+        width: 40px;
+    }
+
+    .text-name{
+        font-size: 35px;
+    }
+
+    .textP{
+        font-size: 15px;
+    }
+}
+
+@media (width: 768px) and (height: 1024px) {
+
+    .initial-info{
+        margin-top: 212px;
+        padding-top: 40px;
+        margin-bottom: 212px;
+    }
+
+    .container-btn{
+        top: 60%;
+        width: 40px;
+    }
+
+    .text-name{
+        font-size: 55px;
+    }
+
+    .textP{
+        font-size: 20px;
+    }
+}
+
+@media (width: 320px) and (height: 480px) {
+
+    .initial-info{
+        margin-top: 5px;
+        padding-top: 40px;
+        margin-bottom: 5px;
+    }
+
+    .container-btn{
+        top: 82%;
+        width: 40px;
+    }
+
+    .text-name{
+        font-size: 35px;
+    }
+
+    .textP{
+        font-size: 15px;
+    }
+}
+
+@media (width: 240px) and (height: 320px) {
+
+    .initial-info{
+        margin-top: 15px;
+        padding-top: 40px;
+        margin-bottom: 80px;
+    }
+
+    .container-btn{
+        top: 162%;
+        width: 40px;
+    }
+
+    .text-name{
+        font-size: 35px;
+    }
+
+    .textP{
+        font-size: 15px;
+    }
+
+    .btn-more {
+        width: 100px;
+        height: 60px;
+        font-size: 15px;
+        color: #fff;
+    }
+    
+    .border{
+        width: 100px;
+        height: 60px;
+    }
+
+    svg {
+        left: 22%;
+    }
+}
+
+@media (width: 375px) and (height: 667px) {
+
+    .initial-info{
+        margin-top: 15px;
+        padding-top: 40px;
+        margin-bottom: 80px;
+    }
+
+    .container-btn{
+        top: 62%;
+        width: 40px;
+    }
+
+    .text-name{
+        font-size: 35px;
+    }
+
+    .textP{
+        font-size: 15px;
+    }
+
+    .btn-more {
+        width: 100px;
+        height: 60px;
+        font-size: 15px;
+        color: #fff;
+    }
+    
+    .border{
+        width: 100px;
+        height: 60px;
+    }
+
+    svg {
+        left: 22%;
+    }
+}
+
+@media (width: 414px) and (height: 896px) {
+
+    .initial-info{
+        margin-top: 148px;
+        padding-top: 40px;
+        margin-bottom: 148px;
+    }
+
+    .container-btn{
+        top: 62%;
+        width: 40px;
+    }
+
+    .text-name{
+        font-size: 35px;
+    }
+
+    .textP{
+        font-size: 15px;
+    }
+
+    .btn-more {
+        width: 110px;
+        height: 60px;
+        font-size: 15px;
+        color: #fff;
+    }
+    
+    .border{
+        width: 110px;
+        height: 60px;
+    }
+
+    svg {
+        left: 19.5%;
+    }
+}
+
+@media (width: 390px) and (height: 844px) {
+
+    .initial-info{
+        margin-top: 125px;
+        padding-top: 40px;
+        margin-bottom: 125px;
+    }
+
+    .container-btn{
+        top: 65%;
+        width: 40px;
+    }
+
+    .text-name{
+        font-size: 35px;
+    }
+
+    .textP{
+        font-size: 15px;
+    }
+
+    .btn-more {
+        width: 110px;
+        height: 60px;
+        font-size: 15px;
+        color: #fff;
+    }
+    
+    .border{
+        width: 110px;
+        height: 60px;
+    }
+
+    svg {
+        left: 19.5%;
+    }
+}
+
+@media (width: 393px) and (height: 851px) {
+
+    .initial-info{
+        margin-top: 125px;
+        padding-top: 40px;
+        margin-bottom: 125px;
+    }
+
+    .container-btn{
+        top: 65%;
+        width: 40px;
+    }
+
+    .text-name{
+        font-size: 35px;
+    }
+
+    .textP{
+        font-size: 15px;
+    }
+
+    .btn-more {
+        width: 110px;
+        height: 60px;
+        font-size: 15px;
+        color: #fff;
+    }
+    
+    .border{
+        width: 110px;
+        height: 60px;
+    }
+
+    svg {
+        left: 19.5%;
+    }
+}
+
+@media (width: 412px) and (height: 915px) {
+
+    .initial-info{
+        margin-top: 158px;
+        padding-top: 40px;
+        margin-bottom: 158px;
+    }
+
+    .container-btn{
+        top: 65%;
+        width: 40px;
+    }
+
+    .text-name{
+        font-size: 35px;
+    }
+
+    .textP{
+        font-size: 15px;
+    }
+
+    .btn-more {
+        width: 110px;
+        height: 60px;
+        font-size: 15px;
+        color: #fff;
+    }
+    
+    .border{
+        width: 110px;
+        height: 60px;
+    }
+
+    svg {
+        left: 19.6%;
+    }
+}
+
+@media (width: 820px) and (height: 1180px) {
+
+    .initial-info{
+        margin-top: 288px;
+        padding-top: 40px;
+        margin-bottom: 288px;
+    }
+
+    .container-btn{
+        top: 65%;
+        width: 40px;
+    }
+
+    .text-name{
+        font-size: 55px;
+    }
+
+    .textP{
+        font-size: 23px;
+    }
+
+    .btn-more {
+        width: 180px;
+        height: 80px;
+        font-size: 18px;
+        color: #fff;
+    }
+    
+    .border{
+        width: 180px;
+        height: 80px;
+    }
+
+    svg {
+        left: 0%;
+    }
+}
+
+@media (width: 912px) and (height: 1368px) {
+
+    .initial-info{
+        margin-top: 382px;
+        padding-top: 40px;
+        margin-bottom: 382px;
+    }
+
+    .container-btn{
+        top: 65%;
+        width: 40px;
+    }
+
+    .text-name{
+        font-size: 65px;
+    }
+
+    .textP{
+        font-size: 25px;
+    }
+
+    .btn-more {
+        width: 220px;
+        height: 100px;
+        font-size: 21px;
+        color: #fff;
+    }
+    
+    .border{
+        width: 220px;
+        height: 100px;
+    }
+
+    svg {
+        left: 0%;
+    }
+}
+
+@media (width: 540px) and (height: 720px) {
+
+    .initial-info{
+        margin-top: 59px;
+        padding-top: 40px;
+        margin-bottom: 59px;
+    }
+
+    .container-btn{
+        top: 70%;
+        width: 40px;
+    }
+
+    .text-name{
+        font-size: 45px;
+    }
+
+    .textP{
+        font-size: 20px;
+    }
+
+    .btn-more {
+        width: 180px;
+        height: 70px;
+        font-size: 21px;
+        color: #fff;
+    }
+    
+    .border{
+        width: 180px;
+        height: 70px;
+    }
+
+    svg {
+        left: 0%;
+    }
+}
+
+@media (width: 280px) and (height: 653px) {
+
+    .initial-info{
+        margin-top: 5px;
+        padding-top: 40px;
+        margin-bottom: 5px;
+    }
+
+    .container-btn{
+        top: 65%;
+        width: 40px;
+    }
+
+    .text-name{
+        font-size: 30px;
+    }
+
+    .textP{
+        font-size: 15px;
+    }
+
+    .btn-more {
+        width: 120px;
+        height: 40px;
+        font-size: 15px;
+        color: #fff;
+    }
+    
+    .border{
+        width: 120px;
+        height: 40px;
+    }
+
+    svg {
+        left: 16.5%;
+    }
+}
+
+@media (width: 412px) and (height: 914px) {
+
+    .initial-info{
+        margin-top: 155px;
+        padding-top: 40px;
+        margin-bottom: 155px;
+    }
+
+    .container-btn{
+        top: 65%;
+        width: 40px;
+    }
+
+    .text-name{
+        font-size: 35px;
+    }
+
+    .textP{
+        font-size: 15px;
+    }
+
+    .btn-more {
+        width: 150px;
+        height: 60px;
+        font-size: 15px;
+        color: #fff;
+    }
+    
+    .border{
+        width: 150px;
+        height: 60px;
+    }
+
+    svg {
+        left: 8%;
+    }
+}
+
+@media (width: 1024px) and (height: 600px) {
+
+    .initial-info{
+        margin-top: 5px;
+        padding-top: 40px;
+        margin-bottom: 5px;
+    }
+
+    .container-btn{
+        top: 65%;
+        width: 40px;
+    }
+
+    .text-name{
+        font-size: 55px;
+    }
+
+    .textP{
+        font-size: 20px;
+    }
+
+    .btn-more {
+        width: 150px;
+        height: 60px;
+        font-size: 15px;
+        color: #fff;
+    }
+    
+    .border{
+        width: 150px;
+        height: 60px;
+    }
+
+    svg {
+        left: 8%;
+    }
+}
+
+@media (width: 1280px) and (height: 800px) {
+
+    .initial-info{
+        margin-top: 103px;
+        padding-top: 40px;
+        margin-bottom: 101px;
+    }
+
+    .container-btn{
+        top: 60%;
+        width: 40px;
+    }
+
+    .text-name{
+        font-size: 55px;
+    }
+
+    .textP{
+        font-size: 20px;
+    }
+
+    .btn-more {
+        width: 150px;
+        height: 60px;
+        font-size: 15px;
+        color: #fff;
+    }
+    
+    .border{
+        width: 150px;
+        height: 60px;
+    }
+
+    svg {
+        left: 8%;
+    }
+}
+
+@media (width: 411px) and (height: 731px) {
+
+    .initial-info{
+        margin-top: 65px;
+        padding-top: 40px;
+        margin-bottom: 65px;
+    }
+
+    .container-btn{
+        top: 73%;
+        width: 40px;
+    }
+
+    .text-name{
+        font-size: 50px;
+    }
+
+    .textP{
+        font-size: 15px;
+    }
+
+    .btn-more {
+        width: 150px;
+        height: 60px;
+        font-size: 15px;
+        color: #fff;
+    }
+    
+    .border{
+        width: 150px;
+        height: 60px;
+    }
+
+    svg {
+        left: 8%;
+    }
+}
+
+@media (width: 411px) and (height: 823px) {
+
+    .initial-info{
+        margin-top: 110px;
+        padding-top: 40px;
+        margin-bottom: 110px;
+    }
+
+    .container-btn{
+        top: 70%;
+        width: 40px;
+    }
+
+    .text-name{
+        font-size: 50px;
+    }
+
+    .textP{
+        font-size: 15px;
+    }
+
+    .btn-more {
+        width: 150px;
+        height: 60px;
+        font-size: 15px;
+        color: #fff;
+    }
+    
+    .border{
+        width: 150px;
+        height: 60px;
+    }
+
+    svg {
+        left: 8%;
+    }
+}
+
+@media (width: 320px) and (height: 568px) {
+
+    .initial-info{
+        margin-top: 5px;
+        padding-top: 40px;
+        margin-bottom: 5px;
+    }
+
+    .container-btn{
+        top: 70%;
+        width: 40px;
+    }
+
+    .text-name{
+        font-size: 35px;
+    }
+
+    .textP{
+        font-size: 15px;
+    }
+
+    .btn-more {
+        width: 100px;
+        height: 50px;
+        font-size: 15px;
+        color: #fff;
+    }
+    
+    .border{
+        width: 100px;
+        height: 50px;
+    }
+
+    svg {
+        left: 22%;
+    }
+}
+
+@media (width: 375px) and (height: 667px) {
+
+    .initial-info{
+        margin-top: 35px;
+        padding-top: 40px;
+        margin-bottom: 35px;
+    }
+
+    .container-btn{
+        top: 70%;
+        width: 40px;
+    }
+
+    .text-name{
+        font-size: 35px;
+    }
+
+    .textP{
+        font-size: 15px;
+    }
+
+    .btn-more {
+        width: 120px;
+        height: 60px;
+        font-size: 15px;
+        color: #fff;
+    }
+    
+    .border{
+        width: 120px;
+        height: 60px;
+    }
+
+    svg {
+        left: 17%;
+    }
+}
+
+@media (width: 414px) and (height: 736px) {
+
+    .initial-info{
+        margin-top: 70px;
+        padding-top: 40px;
+        margin-bottom: 70px;
+    }
+
+    .container-btn{
+        top: 65%;
+        width: 40px;
+    }
+
+    .text-name{
+        font-size: 35px;
+    }
+
+    .textP{
+        font-size: 15px;
+    }
+
+    .btn-more {
+        width: 120px;
+        height: 60px;
+        font-size: 15px;
+        color: #fff;
+    }
+    
+    .border{
+        width: 120px;
+        height: 60px;
+    }
+
+    svg {
+        left: 17%;
+    }
+}
+
+@media (width: 375px) and (height: 812px){
+
+    .initial-info{
+        margin-top: 105px;
+        padding-top: 40px;
+        margin-bottom: 105px;
+    }
+
+    .container-btn{
+        top: 65%;
+        width: 40px;
+    }
+
+    .text-name{
+        font-size: 35px;
+    }
+
+    .textP{
+        font-size: 15px;
+    }
+
+    .btn-more {
+        width: 120px;
+        height: 60px;
+        font-size: 15px;
+        color: #fff;
+    }
+    
+    .border{
+        width: 120px;
+        height: 60px;
+    }
+
+    svg {
+        left: 17%;
+    }
+}
+
+@media (width: 1024px) and (height: 1366px){
+
+    .initial-info{
+        margin-top: 385px;
+        padding-top: 40px;
+        margin-bottom: 385px;
+    }
+
+    .container-btn{
+        top: 65%;
+        width: 40px;
+    }
+
+    .text-name{
+        font-size: 75px;
+    }
+
+    .textP{
+        font-size: 25px;
+    }
+
+    .btn-more {
+        width: 182px;
+        height: 80px;
+        font-size: 19px;
+        color: #fff;
+    }
+    
+    .border{
+        width: 182px;
+        height: 80px;
+    }
+
+    svg {
+        left: 0%;
+    }
+}

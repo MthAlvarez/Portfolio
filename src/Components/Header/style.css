@@ -1,0 +1,23 @@
+
+
+.header-color{
+    background-color: #000;
+}
+
+.text-logo{
+    color: #b800fa !important;
+    font-weight: 600;
+    font-size: 25px !important;
+    margin-right: 30px !important;
+}
+
+.text-header{
+    color: #ffffffe4 !important;
+    font-size: 18px;
+    border-radius: 10px;
+}
+
+.text-header:hover{
+    border-radius: 10px;
+    color: #d400ff !important;
+}

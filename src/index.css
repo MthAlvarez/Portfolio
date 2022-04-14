@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,500;1,300;1,400&display=swap');
+
+html{
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background-color: #161616 !important;
+  font-family: 'Nunito', sans-serif !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+  background-color: #000000;
+}
+::-webkit-scrollbar-track {
+  background: #000000;
+}
+::-webkit-scrollbar-track-piece {
+  background: #000000;
+}
+::-webkit-scrollbar-thumb {
+  background: #b800fa;
+  border-radius: 5px;
+}
+::-webkit-scrollbar-corner {
+  background: #b700fa83;
+  border-radius: 5px;
+}
+.form-comment textarea::-webkit-resizer {
+  border: 1px #b800fa dashed;
+}
