@@ -1,5 +1,5 @@
 import React from "react";
-import { Col, Form, Button, Row, InputGroup } from "react-bootstrap";
+import { Col, Form, Button, Row} from "react-bootstrap";
 import './style.css'
 
 const Forms = (props) => {
